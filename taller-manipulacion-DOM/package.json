@@ -15,7 +15,7 @@
     "tailwindcss": "^2.0.2"
   },
   "name": "taller-manipulacion-dom",
-  "homepage": "https://josegarcia2001.github.io/Manipulacion-del-DOM/",
+  "homepage": "https://josegarcia2001.github.io/Manipulacion-del-DOM/taller-manipulacion-DOM/",
   "description": "> ✨ Bootstrapped with Create Snowpack App (CSA).",
   "version": "1.0.0",
   "main": "snowpack.config.js",
