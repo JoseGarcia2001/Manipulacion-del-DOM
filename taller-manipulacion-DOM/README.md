@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Snowpack Tailwind
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
@@ -78,7 +77,3 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
-=======
-# Manipulacion-del-DOM
-En este repo se llevaran a cabo los talleres de practica del curso de Manipulación del DOM con JS
->>>>>>> 7b103017598448cb491874a054df4506d47660c7
